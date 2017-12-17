@@ -1,3 +1,7 @@
+/*
+*This is the core file that is implemented to parse the query and generate the program as the result.
+*The generated program will implement the algorithm to print the result of the MF queries.
+*/
 package org.stevens.cs562.code;
 
 import java.io.FileNotFoundException;
